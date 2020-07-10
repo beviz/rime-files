@@ -27,5 +27,5 @@ bundle
 
 cd ~/Library/Rime
 ruby scripts/sogou.rb
-ruby scripts/contacts.rb # 5~10 minutes
+ruby scripts/contacts.rb # about 5~10 minutes
 ````
